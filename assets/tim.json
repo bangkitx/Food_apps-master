@@ -1,0 +1,26 @@
+{
+    "mahasiswa": [
+        {
+            "id": "1",
+            "name": "Kakung",
+            "nim": "21120120140130",
+            "bidang": "Embeded System",
+            "desc": "OKIDI"
+
+        },
+        {
+            "id": "2",
+            "name": "Bangkit ",
+            "nim": "2120120140130",
+            "bidang": "Project Manager",
+            "desc": "OKI OKI."
+        },
+        {
+            "id": "3",
+            "name": "Pakarti",
+            "nim": "21120120140130",
+            "bidang": "Ceo Thomas",
+            "desc": "OKI"
+        }
+    ]
+}
